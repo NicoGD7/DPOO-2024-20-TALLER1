@@ -1,0 +1,13 @@
+tipo:Premiun:20000:8.0
+tipo:Corriente:15000:700.0
+tipo:Diesel:12000:800.0
+tipo:Ultra:35000:15.0
+surtidor:Nicolas:Premiun:0.0:Corriente:0.0:Diesel:0.0:Ultra:0.0
+surtidor:Alberto:Premiun:0.0:Corriente:0.0:Diesel:0.0:Ultra:0.0
+surtidor:Mario Sanchez:Premiun:0.0:Corriente:0.0:Diesel:0.0:Ultra:0.0
+surtidor:Nicolas:Premiun:0.0:Corriente:0.0:Diesel:0.0:Ultra:0.0
+empleado:Alicia:0
+empleado:Mario Sanchez:0
+empleado:Alfredo:0
+empleado:Alberto:0
+empleado:Nicolas:0
